@@ -1,7 +1,9 @@
-import Grid from "@/components/Grid"
 import Hero from "@/components/Hero"
-import { FloatingNav } from "@/components/ui/FloatingNav"
+import Grid from "@/components/Grid"
 import RecentProjects from "@/components/RecentProjects"
+import Approach from "@/components/Approach";
+// import Footer from "@/components/Footer";
+import { FloatingNav } from "@/components/ui/FloatingNav"
 import { navItems } from "@/data"
 
 export default function Home() {
@@ -12,6 +14,8 @@ export default function Home() {
         <Hero />
         <Grid />
         <RecentProjects />
+        <Approach />
+        {/* <Footer /> */}
       </div>
     </main>
   )
