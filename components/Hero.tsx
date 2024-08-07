@@ -50,7 +50,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Kristian, a web Developer based in Denmark.
+            Hi! I&apos;m Kristian, a web developer based in Denmark.
           </p>
 
           <a href="#about">
