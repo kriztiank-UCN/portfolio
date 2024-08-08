@@ -78,7 +78,7 @@ export const projects = [
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     linktext: "www.site.com",
-    link: "#",
+    link: "https://3d-planets-five.vercel.app/",
   },
   {
     id: 2,
